@@ -28,7 +28,7 @@ section{
 .size-fix img{
     width:90%;
     padding-left: 10px;
-    padding-top: 20px;
+    padding-top: 30px;
    
 }
 
@@ -36,6 +36,7 @@ section{
     width: 70%;
     padding-right: 10px;
     margin-top: 80px;
+    padding-left: 10px;
 
 }
 .size-fix p{
@@ -53,4 +54,7 @@ section{
 }
  a:hover{
     background-color: green;
+}
+.mayan-city{
+    margin-top: 60px;
 }
